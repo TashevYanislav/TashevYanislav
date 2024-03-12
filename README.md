@@ -8,7 +8,7 @@
 
 📫 Let's connect! I'm always open to new connections and learning experiences. Feel free to reach out to me on LinkedIn - let's code together!
 
-### languages and tools
+### Languages and tools
 
 <image align="left" alt="JavaScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <image align="left" alt="TypeScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
