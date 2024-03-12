@@ -19,13 +19,10 @@
 <image align="left" alt="CSS" width="40px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <image align="left" alt="MySQL" width="40px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <image align="left" alt="MongoDB" width="40px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-
+<image align="left" alt="VsCode" width="40px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 <br/>
 <br/>
 <br/>
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TashevYanislav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
